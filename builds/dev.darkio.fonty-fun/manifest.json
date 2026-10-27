@@ -1,0 +1,13 @@
+{
+  "name": "Darkio Fonty Fun",
+  "description": "V6.1: expanded Unicode, color, matching, typography, spacing and animation controls with Classic and scoped-Revenge runtime resolution.",
+  "authors": [
+    {
+      "name": "Darkio"
+    }
+  ],
+  "main": "./index.js",
+  "vendetta": {
+    "icon": "PaintbrushIcon"
+  }
+}
