@@ -1,0 +1,14 @@
+{
+  "name": "Darkio Fonty Fun",
+  "description": "Darkio Fonty Fun V6.1 adds 12 direct-input customization fields and stronger runtime/React text interception.",
+  "authors": [
+    {
+      "name": "Darkio"
+    }
+  ],
+  "main": "builds/dev.darkio.fonty-fun/index.js",
+  "vendetta": {
+    "icon": "PaintbrushIcon"
+  },
+  "hash": "f66a2c5eea34e7bdb1273156804906da8564835b0c55379c8e18d6aa5815dd60"
+}
